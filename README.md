@@ -2,7 +2,7 @@
 
 I'm Joseph. I work in computer vision and robotics, with a general enthusiasm for software development.
 
-🔭 I’m currently working on [my website](https://github.com/jspsv/website).
+🔭 I’m currently working on [sweetcorn](https://github.com/alkmst-xyz/sweetcorn).
 
 [![I use Fedora, ofc :)](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/) [![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
 
