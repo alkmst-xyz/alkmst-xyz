@@ -6,7 +6,7 @@ Learning in 2026
 - [Go](https://go.dev/) █████████▒░░░
 - [Apache Parquet](https://parquet.apache.org/) ███▓░░░░░░░░░
 - Network programming █▒░░░░░░░░░░░
-  - [*Beej's Guide to Network Programming Using Internet Sockets*](https://beej.us/guide/bgnet/))
+  - [*Beej's Guide to Network Programming Using Internet Sockets*](https://beej.us/guide/bgnet/)
 - [Dafny](https://dafny.org/) █▒░░░░░░░░░░░
 - [Yocto Linux](https://www.yoctoproject.org/) ░░░░░░░░░░░░░
 
